@@ -1,0 +1,5 @@
+Computational package to calculate the optical absorption properties of laser-dressed materials.
+
+`FloqticS-velocity_gauge` folder contains the code and README to calculate it using the theory in https://doi.org/10.1103/PhysRevB.108.064308
+
+`FloqticS-truncated_velocity_gauge` folder contains the code and README to calculate it using the theory in [to be published]
